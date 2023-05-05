@@ -2,3 +2,6 @@ body {
     background-color: black;
     color: white;
 }
+#centre-align {
+    text-align: center;
+}
