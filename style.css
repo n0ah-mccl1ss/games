@@ -7,6 +7,6 @@ a {
     color: white;
 }
 a:hover {
-    color: blue;
+    color: cyan;
     text-decoration: underline;
 }
