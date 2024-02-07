@@ -2,11 +2,10 @@ body {
     background-color: black;
     color: white;
 }
-a {
-    text-decoration: none;
-    color: white;
-}
-a:hover {
-    color: cyan;
-    text-decoration: underline;
+#fredrick-fazballs {
+    
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
 }
